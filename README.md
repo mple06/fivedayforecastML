@@ -11,7 +11,7 @@ I built a weather dashboard applicaton with a search feature to find current wea
     - UV Index and colored coded 
       - green (0-5, good condition)
       - yellow (6-9, moderate condition)
-      - red (10 or higher, bad condition
+      - red (10 or higher, bad condition)
 
   - 5-day forecast displays
     - Date
