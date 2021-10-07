@@ -19,10 +19,14 @@ I built a weather dashboard application with a search feature to find current we
     - Temperature
     - Humidity
 
+## Installation
+
 This application was built using HTML, CSS, and JQuery. This app used 3 API's below from OpenWeather (https://openweathermap.org/api). Layout powered by Bootstrap and current date is powered by moment.JS.
   - Current Weather Data
   - 5 Day Forecast
   - One Call
+
+## Usage
 
 Link:
 https://mple06.github.io/fivedayforecastML/
