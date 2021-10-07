@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-I built a weather dashboard applicaton with a search feature to find current weather condtions and 5-day forecast for numerous cities.
+I built a weather dashboard application with a search feature to find current weather condtions and 5-day forecast for numerous cities.
   - Displays the information below
     - City
     - Date
