@@ -27,4 +27,4 @@ This application was built using HTML, CSS, and JQuery. This app used 3 API's be
 Link:
 https://mple06.github.io/fivedayforecastML/
 
-![image](https://user-images.githubusercontent.com/90426657/136290956-15396787-fb7d-4dc9-93a0-c54d48b02d23.png)
+![image](https://user-images.githubusercontent.com/90426657/136302618-f54dffa4-ce32-430e-8f38-9e7bba310088.png)
