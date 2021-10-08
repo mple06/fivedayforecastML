@@ -21,7 +21,7 @@ I built a weather dashboard application with a search feature to find current we
 
 ## Installation
 
-This application was built using HTML, CSS, and JQuery. This app used 3 API's below from OpenWeather (https://openweathermap.org/api). Layout powered by Bootstrap and current date is powered by moment.JS.
+This application was built using HTML, CSS, and JQuery. This app used 3 API's below from OpenWeather (https://openweathermap.org/api). Bootstrap was the framework for the application and current date is powered by moment.JS.
   - Current Weather Data
   - 5 Day Forecast
   - One Call
